@@ -1,0 +1,7 @@
+node_modules/
+public/
+resources/
+go.sum
+hugo_stats.json
+package-lock.json
+.hugo_build.lock
