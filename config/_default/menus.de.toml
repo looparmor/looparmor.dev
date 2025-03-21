@@ -1,0 +1,33 @@
+############# German navigation ##############
+
+# main menu
+[[main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[main]]
+name = "Services"
+url = "/services"
+weight = 2
+
+[[main]]
+name = "Über uns"
+url = "/about"
+weight = 3
+
+# footer menu
+[[footer]]
+name = "Kontakt"
+url = "/about"
+weight = 1
+
+[[footer]]
+name = "Elements"
+url = "/elements"
+weight = 2
+
+[[footer]]
+name = "Privacy Policy"
+url = "/privacy-policy"
+weight = 3
