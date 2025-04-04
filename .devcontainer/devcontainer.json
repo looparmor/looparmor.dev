@@ -20,5 +20,5 @@
   "forwardPorts": [
     1313
   ],
-  "postCreateCommand": "npm install && npm run dev"
+  "postCreateCommand": "npm install"
 }
