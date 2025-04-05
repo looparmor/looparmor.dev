@@ -1,53 +1,42 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Hugo Project"
-  content: "Hugoplate is a free starter template built with Hugo and TailwindCSS, providing everything you need to jumpstart your Hugo project and save valuable time."
+  title: "Ship new software releases - fast, frequently, reliably."
+  content: "Shipping new software releases should be easy, quick and stress-free. I help you introduce development and deployment processes that minimize risk and maximize security."
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Get Started For Free"
-    link: "https://github.com/zeon-studio/hugoplate"
+    label: "Let's discuss your workflows"
+    link: "/contact"
 
 # Features
 features:
-  - title: "What's Included in Hugoplate"
-    image: "/images/service-1.png"
-    content: "Hugoplate is a comprehensive starter template that includes everything you need to get started with your Hugo project. What's Included in Hugoplate"
+  - title: "Security In Every Step"
+    image: "/images/service_test.png"
+    content: "Most of the time, Security is just an extra step at the end of the Software Development Lifecycle. However, Security needs to be part of every step, from Planning to Deployment. This can include"
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Hugo and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
-    button:
-      enable: false
-      label: "Get Started Now"
-      link: "#"
-
-  - title: "Discover the Key Features Of Hugo"
-    image: "/images/service-2.png"
-    content: "Hugo is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
-    bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
+      - "**Infrastructure as code scanning** to automatically check for noncompliance with security policies and standards"
+      - "**Container image scanning** to compare them against vulnerability databases to uncover security risks"
+      - "**Container image signing** to mitigate the risk of running containers that have been tampered with"
+      - "**Software composition analysis** to identify (open source) components in applications and evaluate them against databases to detech license violations and security and quality issues"
+      - "**Static application security testing** to automatically check and give real-time feedback on code before it is compiled"
+      - "Many more like **Dynamic application security testing, Interactive application security testing, Linting,...**"
     button:
       enable: true
-      label: "Get Started Now"
-      link: "https://github.com/zeon-studio/hugoplate"
+      label: "Read more"
+      link: "#"
 
-  - title: "The Top Reasons to Choose Hugo for Your Hugo Project"
-    image: "/images/service-3.png"
-    content: "With Hugo, you can build modern and content-focused websites without sacrificing performance or ease of use."
+  - title: "A Platform For Your Developers"
+    image: "/images/serviceroni.png"
+    content: "Development teams often have complex requirements that can lead to confusion, insecurity and a longer development time. Platform engineering improves developer experiences by providing self-service within a secure, governed and automated framework."
     bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Hugo a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
+      - "**Internal Developer Platforms** provide recommended and supported development paths to production"
+      - "**Self-service** and **Automation** are key principles in creating a secure platform"
+      - "**No two companies are the same** so it is important to adopt a Product Mindset and combine it with DevSecOps practices"
+      - "Platform Engineering helps improve **security, compliance, cost and time-to-business value**"
     button:
-      enable: false
-      label: ""
-      link: ""
+      enable: true
+      label: "Read more"
+      link: "#"
+
 ---
