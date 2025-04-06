@@ -3,7 +3,7 @@
 banner:
   title: "Liefern Sie stabile Softwareversionen - schnell, häufig und zuverlässig."
   content: "Die Bereitstellung neuer Softwareversionen sollte einfach, schnell und stressfrei sein. Ich helfe Ihnen bei der Einführung von Entwicklungs- und Deploymentprozessen, die das Risiko minimieren und die Sicherheit maximieren."
-  image: "/images/bannerino.png"
+  image: "/images/banner.png"
   button:
     enable: true
     label: "Reden wir über Ihre Workflows"
@@ -12,7 +12,7 @@ banner:
 # Features
 features:
   - title: "Sicherheit in jedem Schritt"
-    image: "/images/service_test.png"
+    image: "/images/service-1.png"
     content: "Meistens ist Sicherheit nur ein zusätzlicher Schritt am Ende des Software-Lebenszyklus. Die Sicherheit muss jedoch Teil jedes Schrittes sein - von der Planung bis zur Bereitstellung."
     bulletpoints:
       - "**Infrastructure as code scanning** zur automatischen Prüfung auf Nichteinhaltung von Sicherheitsrichtlinien und -standards"
@@ -27,7 +27,7 @@ features:
       link: "#"
 
   - title: "Eine Plattform für Ihre Entwickler"
-    image: "/images/service-4.png"
+    image: "/images/service-2.png"
     content: "Entwicklungsteams haben oft komplexe Anforderungen, die zu Verwirrung, Unsicherheit und längeren Entwicklungszeiten führen können. Platform Engineering verbessert die Erfahrungen von Entwicklern durch die Bereitstellung von Self-Service Lösungen innerhalb eines sicheren, kontrollierten und automatisierten Rahmens."
     bulletpoints:
       - "**Internal Developer Platforms** bieten empfohlene und unterstützte Entwicklungspfade zur Produktion"

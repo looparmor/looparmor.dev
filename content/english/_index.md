@@ -3,7 +3,7 @@
 banner:
   title: "Ship stable software releases - fast, frequently, reliably."
   content: "Shipping new software releases should be easy, quick and stress-free. I help you introduce development and deployment processes that minimize risk and maximize security."
-  image: "/images/bannerino.png"
+  image: "/images/banner.png"
   button:
     enable: true
     label: "Let's discuss your workflows"
@@ -12,7 +12,7 @@ banner:
 # Features
 features:
   - title: "Security In Every Step"
-    image: "/images/service_test.png"
+    image: "/images/service-1.png"
     content: "Most of the time, Security is just an extra step at the end of the Software Development Lifecycle. However, Security needs to be part of every step - from Planning to Deployment."
     bulletpoints:
       - "**Infrastructure as code scanning** to automatically check for noncompliance with security policies and standards"
@@ -27,7 +27,7 @@ features:
       link: "#"
 
   - title: "A Platform For Your Developers"
-    image: "/images/serviceroni.png"
+    image: "/images/service-2.png"
     content: "Development teams often have complex requirements that can lead to confusion, insecurity and a longer development time. Platform engineering improves developer experiences by providing self-service solutions within a secure, governed and automated framework."
     bulletpoints:
       - "**Internal Developer Platforms** provide recommended and supported development paths to production"
