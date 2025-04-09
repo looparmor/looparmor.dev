@@ -7,7 +7,7 @@ banner:
   button:
     enable: true
     label: "Reden wir über Ihre Workflows"
-    link: "/contact"
+    link: "/de/contact"
 
 # Features
 features:
@@ -24,7 +24,7 @@ features:
     button:
       enable: true
       label: "Erfahren Sie Mehr"
-      link: "#"
+      link: "/de/services/#devsecops"
 
   - title: "Eine Plattform für Ihre Entwickler"
     image: "/images/service-2.png"
@@ -37,6 +37,6 @@ features:
     button:
       enable: true
       label: "Erfahren Sie Mehr"
-      link: "#"
+      link: "/de/services/#platform-engineering"
 
 ---

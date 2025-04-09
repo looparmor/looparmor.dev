@@ -24,7 +24,7 @@ features:
     button:
       enable: true
       label: "Read more"
-      link: "#"
+      link: "/services/#devsecops"
 
   - title: "A Platform For Your Developers"
     image: "/images/service-2.png"
@@ -37,6 +37,5 @@ features:
     button:
       enable: true
       label: "Read more"
-      link: "#"
-
+      link: "/services/#platform-engineering"
 ---
