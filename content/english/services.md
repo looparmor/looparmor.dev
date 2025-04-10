@@ -25,21 +25,39 @@ This means that security is implemented in every step of the SDLC and that secur
 In order to secure every step of your Software Development Lifecycle and to make security a shared responsibility, I help you introduce automation and security in your workflows step by step.
 
 {{< accordion "Continuous Integration" >}}
+When developers commit changes to your codebase multiple times a day, Continuous Integration (CI) is a necessity in order to automatically perform all your tests. By integrating security best practices into your CI build pipelines, your developers can catch integration issues, bugs and security risks early in the process rather than waiting until the end of your workflows.
+
+**I help you build secure Continuous Integration pipelines from the ground up or within your existing infrastructure to enable development teams to find integration issues, bugs and security risks early.**
 {{< /accordion >}}
 
 {{< accordion "Continuous Delivery" >}}
+Continuous Delivery (CD) builds upon your Continuous Integration (CI) workflows to move from your build environment to a staging environment. In addition to unit testing, additional components like the user interface, APIs and the expected traffic volumes are automatically tested. By including *Interactive Application Security Testing*, *Dynamic Application Security Testing* and *Container Scanning*, security can be baked into the whole process to strengthen your trust when you extend your CD workflow to automatically deliver the secure, tested and production-ready code to customers.
+
+**I help you build secure Continuous Delivery workflows from the ground up or within your existing infrastructure to enable you to ship secure, tested and production-ready code to your customers.**
 {{< /accordion >}}
 
 {{< accordion "Continuous Security" >}}
+It is important to build security into the entire Software Development Lifecycle (SDLC), so it is important to start threat modeling early in the process and automate security testing throughout the entire SDLC. This already starts with development environment of your developers and ends with the monitoring of your released software for security risks and bugs. By implementing security into every step of the SDLC and by testing your software for security risks early and frequently, you can efficiently ship secure software by minimizing risks.
+
+**I help you with threat modeling throughout your Software Development Process to maximize security and minimize risk.** 
 {{< /accordion >}}
 
 {{< accordion "Infrastructure as Code" >}}
+Provisioning infrastructure that matches your requirements is a vital step in efficiently running your entire software stack. It is equally important to automate this process as much as possible in order to reduce errors and enforce consistency. As with your application code, also your infrastructure code can and needs to be tested and checked for security risks. Furthermore, tools like *infracost* can help you to plan your budget and avoid unnecessary spending.
+
+**I help you automate the provisioning of infrastructure with code and to enable you to consistently deploy environments and to scale your infrastructure for every workload.**
 {{< /accordion >}}
 
 {{< accordion "Workshops" >}}
+It does not matter if you are thinking about creating introducing Security into your DevOps workflows and don't know where to start, or if you have already started with a few components but don't know if you are on the right track. Sometimes a workshop is the perfect way to talk about ideas, learn new things and try out different concepts. They are also a great place where DevOps teams can gather feedback or requirements from different development teams to start or continue their journey in securing their whole workflow.
+
+**I offer workshops for teams in every stage of their DevSecOps journey by providing insights and expertise to enable them to implement security best practices in every step of the Software Development Lifecycle.**
 {{< /accordion >}}
 
 {{< accordion "Building a DevSecOps Team" >}}
+Building up a DevSecOps team by providing guidance and architecture decisions is hard and can be overwhelming. However, it is vital for the acceptance and success of security best practices in every step of the Software Development Lifecycle. Furthermore, it is important to introduce a step-by-step mindset from the beginning and to rapidly improve on feedback from development teams in order to establish CI/CD pipelines that test your code, enable your teams to discover security risks fast and ship them to your customers.
+
+**I help you build up a DevSecOps team that implements security into every step of your Software Development Lifecycle and enables teams to build secure, tested and production-ready software releases.**
 {{< /accordion >}}
 
 <hr>
@@ -82,7 +100,7 @@ In every development and operations team comes the time when your workflows are 
 {{< accordion "Workshops" >}}
 It does not matter if you are thinking about creating an Internal Developer Platform and don't know where to start, or if you have already started with a few components but don't know if you are on the right track. Sometimes a workshop is the perfect way to talk about ideas, learn new things and try out different concepts. They are also a great place where platform teams can gather feedback or requirements from different development teams and advertise themselves and their value internally to make sure that a platform is a valuable investment.
 
-**I offer workshops for teams in every stage of their platform engineering journey by providing insights and expertise to help them build an Internal Developer Platform which their developers love.**
+**I offer workshops for teams in every stage of their platform engineering journey by providing insights and expertise to enable them to build an Internal Developer Platform which their developers love.**
 {{< /accordion >}}
 
 {{< accordion "Building a Platform Team" >}}
@@ -111,14 +129,14 @@ The **Clarification** phase consists of one or more **Clarification Workshops** 
 
 - align stakeholders
 - align business objectives
-- gather requirements and visions from differen teams
+- gather requirements and visions from different teams
 - define first milestones
 
 This phase is for everyone to be on the same page and align expectations in order to deliver a product every team can see a part of themselves in. It is essential for the actual start of the project and the **Project** phase.
 {{< /tab >}}
 
 {{< tab "Project" >}}
-In the **Project** phase the actual work towards the milestones happens. Depending on the milestones, the project structure and the team structure, this can vary in shape and form which has all been defined in the **Clarification** stage. Depending on the size of the project, this can run from a few months to a year. You will get
+In the **Project** phase the actual work towards the milestones happens. Depending on the milestones, the project structure and the team structure, this can vary in shape and form which has all been defined in the **Clarification** phase. Depending on the size of the project, this can run from a few months to a year. You will get
 
 - completed and tested milestones
 - knowledge transfer and documentation
