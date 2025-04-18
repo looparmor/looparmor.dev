@@ -111,11 +111,11 @@ Der Aufbau eines Plattformteams und die Bereitstellung von Leitlinien und Archit
 
 <hr>
 
-# Sind Sie bereit Ihre Workflows zu sichern Ihre Developer zu entlasten?
+# Sind Sie bereit Ihre Workflows zu sichern und die Produktivität Ihrer Developer zu steigern?
 
 {{< tabs >}}
 {{< tab "Phase 1: Ausrichtung" >}}
-Lassen Sie uns ein gezieltes Gespräch über Ihre Arbeitsabläufe, Bedürfnisse und Visionen führen. Kontaktieren Sie mich über die Seite [Kontakt](/de/contact), um ein **30-minütiges Einführungsgespräch** zu vereinbaren, in dem wir
+Lassen Sie uns ein gezieltes Gespräch über Ihre Workflows, Bedürfnisse und Visionen führen. Kontaktieren Sie mich über die Seite [Kontakt](/de/contact), um ein **30-minütiges Einführungsgespräch** zu vereinbaren, in dem wir
 
 - Ihre spezifischen Herausforderungen besprechen
 - meine Verfügbarkeit besprechen

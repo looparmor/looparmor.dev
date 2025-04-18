@@ -111,7 +111,7 @@ Building up a Platform team and providing guidance and architecture decisions is
 
 <hr>
 
-# Ready to secure your workflows and to unburden your developers?
+# Ready to secure your workflows and to improve the productivity of your developers?
 
 {{< tabs >}}
 {{< tab "Phase 1: Alignment" >}}

@@ -2,10 +2,19 @@
   <section class="section-sm">
     <div class="container">
       <div class="row justify-center">
-        <div class="md:col-10 lg:col-7 text-center">
-          {{ partial "image" (dict "Src" .Params.image "Context" .Page "Alt" .Title "Class" "mx-auto mb-6" "Size" "200x200") }}
+        <div class="md:col-10 lg:col-7">
+          {{ partial "image" (dict "Src" .Params.image "Context" .Page "Alt" .Title "Class" "mx-auto mb-6 rounded-xl" "Size" "400x400") }}
           <h2 class="h3 mb-6">{{ .Title }}</h2>
-          <div class="content">{{ .Content }}</div>
+          <div class="content">
+            {{ .Content }}
+          </div>
+          <div class="text-center">
+            <a
+              class="btn btn-primary btn-xl"
+              href="{{ site.Params.navigation_button.link | relLangURL }}">
+              {{ T "contact" | default site.Params.navigation_button.label }}
+            </a>
+          </div>
         </div>
       </div>
     </div>
