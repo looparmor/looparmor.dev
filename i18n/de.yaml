@@ -1,1 +1,15 @@
 contact: Kontakt
+search_input_placeholder: Posts durchsuchen...
+search_no_results: Keine Resultate für
+search_initial_message: Tippe etwas um zu suchen..
+search_navigate: um zu navigieren
+search_select: um auszuwählen
+search_close: um zu schließen
+full_name: Vollständiger Name
+work_mail: Geschäftliche E-Mail-Adresse
+work_mail_placeholder: max.mustermann@email.com
+preferred_date: Bevorzugtes Datum
+preferred_time: Bevorzugte Zeit
+anything_else: Sonst noch etwas?
+anything_else_placeholder: Sie können hier eine Nachricht hinterlassen...
+submit_button: Absenden

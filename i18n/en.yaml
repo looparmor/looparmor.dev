@@ -12,3 +12,12 @@ search_initial_message: Type something to search..
 search_navigate: to navigate
 search_select: to select
 search_close: to close
+full_name: Full Name
+full_name_placeholder: John Doe
+work_mail: Business E-Mail Address
+work_mail_placeholder: john.doe@email.com
+preferred_date: Preferred Date
+preferred_time: Preferred Time
+anything_else: Anything else?
+anything_else_placeholder: You can leave a message here...
+submit_button: Submit
