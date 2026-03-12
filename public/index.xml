@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Christoph Fritz</title>
+    <link>https://looparmor.dev/</link>
+    <description>Recent content on Christoph Fritz</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 11 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://looparmor.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://looparmor.dev/about/</link>
+      <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://looparmor.dev/about/</guid>
+      <description>&lt;p&gt;With 8+ years of experience as a DevSecOps and Platform Engineer and degrees in Mathematics and Physics, I help companies introduce security into every step of their workflows and build platforms that improve the productivity of their development teams.&lt;/p&gt;&#xA;&lt;p&gt;Based in Vienna, Austria, I partner with forward-thinking companies on complex projects that show their drive for innovation and security.&lt;/p&gt;&#xA;&lt;p&gt;A special focus is placed on the use of an open source and portable technology stack to avoid vendor lock-in and to be able to shift resources as fast as possible to reduce downtime. This ensures that workloads run on Azure, AWS, GCP or any other cloud provider and on-premise.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Services</title>
+      <link>https://looparmor.dev/services/</link>
+      <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://looparmor.dev/services/</guid>
+      <description>&lt;p&gt;I help organizations and development teams to bridge the gap between &lt;em&gt;fast&lt;/em&gt; and &lt;em&gt;secure&lt;/em&gt;. By shifting security to the left and building robust Internal Developer Platforms, I enable development teams to ship stable software releases - fast, frequently, securely.&lt;/p&gt;&#xA;&lt;h2 id=&#34;devsecops&#34;&gt;&#xA;  DevSecOps&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#devsecops&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Security shouldn&amp;rsquo;t be a final hurdle but a shared responsibility baked into every commit. I help you automate trust across your entire Software Development Lifecycle.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://looparmor.dev/imprint/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://looparmor.dev/imprint/</guid>
+      <description>&lt;h1 id=&#34;imprint&#34;&gt;&#xA;  Imprint&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#imprint&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Website-Betreiber:&lt;/strong&gt; Christoph Fritz&lt;br&gt;&#xA;&lt;strong&gt;Inhaber:&lt;/strong&gt; Christoph Fritz&lt;br&gt;&#xA;&lt;strong&gt;Standort:&lt;/strong&gt; Beingasse 27/22, 1150 Vienna, Austria&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Geschäftszweck:&lt;/strong&gt; DevSecOps und Platform Engineering für Entwicklungsteams und Unternehmen&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;E-Mail:&lt;/strong&gt; &lt;a href=&#34;mailto:office@looparmor.dev&#34; &gt;office@looparmor.dev&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;UID-Nummer:&lt;/strong&gt; ATU82428829&lt;br&gt;&#xA;&lt;strong&gt;Kammerzugehörigkeit:&lt;/strong&gt; Wirtschaftskammer Österreich&lt;br&gt;&#xA;&lt;strong&gt;Anwendbare Gewerbevorschriften:&lt;/strong&gt; &lt;a href=&#34;https://www.ris.bka.gv.at&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.ris.bka.gv.at&lt;/a&gt;&lt;br&gt;&#xA;&lt;strong&gt;Aufsichtsbehörde:&lt;/strong&gt; Magistratisches Bezirksamt für den 1. Bezirk&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Berufsbezeichnung:&lt;/strong&gt; Dienstleistungen in der automatischen Datenverarbeitung und Informationstechnik&lt;br&gt;&#xA;&lt;strong&gt;Verleihungsstaat:&lt;/strong&gt; Österreich&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Online-Streitbeilegung:&lt;/strong&gt; Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit: &lt;a href=&#34;https://ec.europa.eu/consumers/odr&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://ec.europa.eu/consumers/odr&lt;/a&gt;. Wir sind weder verpflichtet noch bereit, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
