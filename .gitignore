@@ -1,4 +1,5 @@
 node_modules/
+public/
 resources/
 go.sum
 hugo_stats.json

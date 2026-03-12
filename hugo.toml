@@ -46,3 +46,7 @@ url = "services/"
 name = "Imprint"
 weight = 3
 url = "imprint/"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
