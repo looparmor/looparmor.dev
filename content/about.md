@@ -17,6 +17,6 @@ Taking on projects with innovative companies that are ready to take the extra st
 
 #### Take the First Step
 
-I offer a **Two-Day Intensive Workshop** for **€3,200**. This is the fastest way to dive straight into your challenges, deliver immediate value, and see if we’re a fit for a larger project. Just send a quick email to [office@looparmor.dev](mailto:office@looparmor.dev) and mention "Workshop" in the subject line and a brief overview of your current stack. I’ll send over the next steps and available dates.
+I offer a **Two-Day Intensive Workshop** for **€3,200 excl. VAT**. This is the fastest way to dive straight into your challenges, deliver immediate value, and see if we’re a fit for a larger project. Just send a quick email to [office@looparmor.dev](mailto:office@looparmor.dev) and mention "Workshop" in the subject line and a brief overview of your current stack. I’ll send over the next steps and available dates.
 
 Even if we decide not to move forward with a larger project, the workshop is designed to be a standalone value. The result is a clear, actionable roadmap including technical clarity that your team can implement immediately.
