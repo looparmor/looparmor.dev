@@ -1,0 +1,48 @@
+baseURL = "https://looparmor.dev"
+title = "Christoph Fritz"
+theme = "hugo-coder"
+languageCode = "en"
+defaultContentLanguage = "en"
+enableEmoji = true
+
+[params]
+author = "Christoph Fritz"
+info = ["Cloud/Platform Engineer", "DevSecOps Specialist"]
+description = "John Doe's personal website"
+keywords = "cloud,platform,engineer,developer,freelance"
+avatarURL = "images/avatar.jpg"
+since = 2025
+commit = "https://github.com/luizdepra/hugo-coder/tree/"
+
+[[params.social]]
+name = "Github"
+icon = "fa-brands fa-github fa-2x"
+weight = 1
+url = "https://github.com/chrstphfrtz/"
+
+[[params.social]]
+name = "LinkedIn"
+icon = "fa-brands fa-linkedin fa-2x"
+weight = 2
+url = "https://www.linkedin.com/in/christoph-fritz/"
+
+[[params.social]]
+name = "Mail"
+icon = "fa fa-envelope fa-2x"
+weight = 2
+url = "mailto:office@looparmor.dev"
+
+[[menu.main]]
+name = "About"
+weight = 1
+url = "about/"
+
+[[menu.main]]
+name = "Services"
+weight = 2
+url = "services/"
+
+[[menu.main]]
+name = "Imprint"
+weight = 3
+url = "imprint/"
