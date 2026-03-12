@@ -8,7 +8,7 @@ enableEmoji = true
 [params]
 author = "Christoph Fritz"
 info = ["Cloud/Platform Engineer", "DevSecOps Specialist"]
-description = "John Doe's personal website"
+description = "Christoph Fritz's company homepage"
 keywords = "cloud,platform,engineer,developer,freelance"
 avatarURL = "images/avatar.jpg"
 since = 2025
